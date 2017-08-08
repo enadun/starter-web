@@ -1,10 +1,14 @@
 # Starter Web Repo
 
-This is the description of Web Repo
+This is the description area of Web Repo.
 
 ## Introduction
 
+This is the description area of Introduction.
+
 ## Deployment
+
+This is the description area of Deployment.
 
 ## Purpose
 
