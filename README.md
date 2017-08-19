@@ -14,3 +14,7 @@ This is the description area of Deployment.
 ## Purpose
 
 ## How to contribute
+
+###Copyright
+
+All Rights Reserved 2017
