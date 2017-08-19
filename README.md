@@ -1,7 +1,7 @@
  # Starter Web Repo
 
 This is the description area of Web Repo.
-Updated the line with emergency fixed.
+Git Stash example with new branch.
 
 ## Introduction
 
